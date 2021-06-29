@@ -1,0 +1,104 @@
+*{
+    background-color: #fff;
+}
+/* header starts here */
+i{
+    width: 24px;
+    height: 24px;
+    padding-left: 5px;
+}
+li{
+    list-style: none;
+    display: inline;
+}
+.form-control{
+    height: 45px;
+}
+/* header ends here */
+
+/* main page starts here */
+.bg-round{
+    margin-top: 25px;
+    height: 209px;
+    background: #003277;
+    border-radius: 25px;
+    align-content: space-around;
+}
+.T-bg{
+    padding-top: 13px;
+    width:159px;
+    background-color: #003277;
+    color: #fff;
+    font-size: 300;
+}
+.T-gr{
+    color: #f39677;
+    background-color: #003277;
+}
+.T-blue{
+    display: inline;
+    padding: 0px;
+    width: px;
+    text-align: center;
+    align-content: space-between;
+    justify-content: left;
+    margin-top: -100px;
+    margin-left: 900px;
+    position: relative;
+    display: inline;
+    color: #fff;
+    background-color: #227EFF;
+    padding: 10px;
+}
+.si{
+    width:75px;
+    padding: 30px;
+    border-radius: 7px;
+}
+.cen{
+    justify-content: space-around;
+    padding-left: 30px;
+}
+.blu{
+    background-color: #227EFF;
+
+}
+.orange{
+    background-color: #f39677;
+}
+.purple{
+background-color: rgb(238, 175, 238)
+}
+.grin{
+    background-color: green;
+}
+
+.sImg{
+    width: 70%;
+    padding-left: 9%;
+}
+.light{
+    padding-left: 9%;
+    font-weight: 100;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.bold{
+    padding-left: 9%;
+    font-weight: 700;
+    font-size: 25px;
+    padding-top: 1px;
+    margin-top: 1px;
+}
+/* main page ends here */
+
+/* footer page starts here */
+fImg{
+    width: 55px;
+    padding-left: 30%;
+}
+.pdl{
+    padding-left: 30px;
+    margin-left: 30px;
+}
+/* footer page ends here */

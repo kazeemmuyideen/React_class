@@ -1,3 +1,7 @@
+.ad2cart{
+    background-color: #D3FDE9;
+    padding: 10px 5px;
+}
 .hLink{
 padding-left: 0px;
 padding-right: 0pc;
@@ -48,7 +52,8 @@ text-decoration: none;
 .black{
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: rgb(247, 234, 218);
+    background-color: rgb(75, 67, 57);
     border-radius: 5px;
+    border-style: 5px solid rgb(58, 50, 50);
 }
 /* footer ends here */

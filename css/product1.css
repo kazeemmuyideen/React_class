@@ -1,0 +1,54 @@
+.hLink{
+padding-left: 0px;
+padding-right: 0pc;
+padding-top: 15px;
+padding-bottom: 15px;
+column-gap: 15px;
+text-decoration: none;
+}
+.hLink:hover{
+    text-decoration: none;
+    font-size: large;
+
+}
+/* main starts here */
+.shImag{
+    width: fit-content;
+    height: 500px;
+}
+.light{
+    font-weight: 100;
+    font-size: large;
+}
+.lighter{
+    font-weight: lighter;
+}
+.dark{
+    font-weight: 500;
+}
+.sSize{
+    font-size: 17px;
+}
+.sAri{
+    width: 57px;
+}
+/* main ends here */
+
+/* footer starts here */
+.h{
+    padding-top: 2fr;
+}
+.white{
+    color: #fff;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    background-color: #227EFF;
+    border-radius: 5px;
+}
+.black{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(247, 234, 218);
+    border-radius: 5px;
+}
+/* footer ends here */

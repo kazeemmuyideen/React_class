@@ -1,6 +1,10 @@
 .ad2cart{
+    margin-top: 15px;
     background-color: #D3FDE9;
     padding: 10px 5px;
+}
+.canc{
+    padding-left: 37%;
 }
 .hLink{
 padding-left: 0px;
